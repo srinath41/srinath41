@@ -33,7 +33,7 @@
 
 - ⚡ Fun fact **I love problem-solving and upskilling!**
   
-- ⚙️ Understanding how data structures impact the performance of algorithms!!.
+- ⚙️ Understanding how **data structures** impact the performance of algorithms!!.
 
 <br>
 <h3 align="left">Connect with me:</h3>
