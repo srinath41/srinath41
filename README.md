@@ -25,13 +25,15 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🌱 I’m currently learning **Full Stack Development (MERN, Java)**
+- 🌱 I’m currently learning **Full Stack Development (Java)**
 
 - 💬 Ask me about **Java, Python, Django, JavaScript, and Web Development**
 
 - 📫 How to reach me **devarapallisrinath8@gmail.com**
 
 - ⚡ Fun fact **I love problem-solving and upskilling!**
+  
+- ⚙️ Understanding how data structures impact the performance of algorithms!!.
 
 <br>
 <h3 align="left">Connect with me:</h3>
