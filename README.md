@@ -1,4 +1,4 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
 
 <h1 align="center">Hi 👋, I'm Srinath</h1>
 
@@ -31,9 +31,9 @@
 
 - 📫 How to reach me **devarapallisrinath8@gmail.com**
 
-- ⚡ Fun fact **I love problem-solving and upskilling!**
+- ⚡ **I love problem-solving and upskilling!**
   
-- ⚙️ Understanding how **data structures** impact the performance of algorithms!!.
+- ⚙️ Learning how **data structures** impact the performance of algorithms!!.
 
 <br>
 <h3 align="left">Connect with me:</h3>
