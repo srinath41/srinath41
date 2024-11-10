@@ -89,12 +89,10 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">GitHub Stats:</h3>
-<div align="center">
- 
-|![Sai Srinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=srinath41&theme=midnight-purple&show_icons=true&include_all_commits=true&hide=contribs,issues)|[![GitHub Streak](https://streak-stats.demolab.com/?user=srinath41&theme=midnight-purple)](https://git.io/streak-stats)|
-|--|--|
 
-</div>
+| ![Sai Srinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=srinath41&theme=midnight-purple&show_icons=true&include_all_commits=true&hide=contribs,issues) | [![GitHub Streak](https://streak-stats.demolab.com/?user=srinath41&theme=midnight-purple)](https://git.io/streak-stats) |
+| --- | --- |
+
 
 
 
