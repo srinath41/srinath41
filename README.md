@@ -25,7 +25,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🌱 I’m currently learning **Full Stack Development (Java)**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **Java, Python, Django, JavaScript, and Web Development**
 
@@ -33,7 +33,7 @@
 
 - ⚡ **I love problem-solving and upskilling!**
   
-- ⚙️ Learning how **data structures** impact the performance of algorithms!!.
+- ⚙️ Learning how **data structures** impact the performance of algorithms!! ^_^.
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -52,7 +52,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
   </a>
 </p>
 
