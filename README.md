@@ -33,7 +33,7 @@
 
 - ⚡ **I love problem-solving and upskilling!**
   
-- ⚙️ Learning how **data structures** impact the performance of algorithms!! ^_^.
+- ⚙️ Learning how **data structures** impact the performance!! ^_^.
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -52,14 +52,14 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwindcss" />
   </a>
 </p>
 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,django,spring,nodejs" />
+    <img src="https://skillicons.dev/icons?i=java,py,django,spring,nodejs,expressjs" />
   </a>
 </p>
 
